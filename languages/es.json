@@ -1,0 +1,15 @@
+{
+    "profile": {
+        "rol": "Desarrollador Full Stack Junior",
+        "description":"Desarrollo de aplicaciones web, analisis de datos y big data"
+    },
+"experience": {
+    "firs-job-title":"Desarrollador",
+    "firs-job-dates":"Feb 2017 - Actual",
+    "firs-job-description":"Descripcion en español, amet consectetur adipisicing elit. Reiciendis sit quidem illo minus debitis tempore dolorem illum deserunt quaerat ratione. Porro cumque quas doloremque facilis, laudantium dolore voluptate culpa modi.",
+    "second-job-title":"Desarrollador",
+    "second-job-dates":"Feb 2017 - Actual",
+    "second-job-description":"Descripcion en español, amet consectetur adipisicing elit. Reiciendis sit quidem illo minus debitis tempore dolorem illum deserunt quaerat ratione."
+
+ }
+}

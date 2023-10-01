@@ -1,0 +1,15 @@
+{
+    "profile": {
+        "rol": "Front End",
+        "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis sit quidem illo minus debitis tempore dolorem illum deserunt quaerat ratione. Porro cumque quas doloremque facilis, laudantium dolore voluptate culpa modi."
+    },
+"experience": {
+    "firs-job-title":"Front End",
+    "firs-job-dates":"Feb 2017 - Current",
+    "firs-job-description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis sit quidem illo minus debitis tempore dolorem illum deserunt quaerat ratione. Porro cumque quas doloremque facilis, laudantium dolore voluptate culpa modi.",
+    "second-job-title":"Front End",
+    "second-job-dates":"Feb 2017 - Current",
+    "second-job-description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reiciendis sit quidem illo minus debitis tempore dolorem illum deserunt quaerat ratione."
+
+ }
+}
